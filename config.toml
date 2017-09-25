@@ -6,3 +6,4 @@ theme = "docdock"
 [params]
   disableInlineCopyToClipBoard = true
   author = "Fredrik Brannbacka"
+  ordersectionsby = "title"
