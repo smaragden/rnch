@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "ILP Documentation"
+theme = "docdock"
+
+[params]
+  disableInlineCopyToClipBoard = true
+  author = "Fredrik Brannbacka"
